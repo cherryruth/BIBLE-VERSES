@@ -1,0 +1,73 @@
+.contents{
+	overflow-y: scroll;
+	  width: 100%;
+  height: 100%;
+
+}
+.contents-webkit-scrollbar { 
+  display: none;
+}
+
+.item-title{
+	color: #ff2d80;
+	te
+}
+.navbar-inner{
+	background-color: blue;
+	color: white;
+	text-align: center;
+
+}
+
+button{
+	color:black;
+	font-size: 17px;
+	width: 100px;
+}
+
+input{
+	font-size: 17px;
+}
+
+.text{
+	font-size: 10px;
+	font-family: 'arial';
+}
+
+ul li{
+	font-size: 17px;
+	color:red;
+}
+
+.imCustomClass{
+	text-decoration: underline;
+	color:yellow;
+}
+
+
+.btn-back{
+    border: 1px solid black;
+    padding: 5px 20px 5px 20px;
+    width: 100px;
+
+ul{
+	list-style: none !important;
+}
+
+ul li{
+    border-radius: 3px;
+    padding: 5px 10px 5px 10px;
+    background: #f00;
+    color: #fff;
+    width: 100px;
+    margin-bottom: 7px;
+}
+
+ul li:hover{
+    background: blue;
+}
+
+
+ul li a{
+    color: #fff;
+}

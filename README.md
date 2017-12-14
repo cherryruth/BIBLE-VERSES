@@ -1,1 +1,1 @@
-# BIBLE-VERSES
+# reactMinimal
